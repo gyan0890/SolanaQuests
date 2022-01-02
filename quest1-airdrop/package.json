@@ -1,0 +1,19 @@
+{
+  "name": "quest1-airdrop",
+  "version": "1.0.0",
+  "description": "Solana quests from Questbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "quest",
+    "web3"
+  ],
+  "author": "gyanlakshmi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
