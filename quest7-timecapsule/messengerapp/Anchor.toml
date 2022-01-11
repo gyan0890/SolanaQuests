@@ -1,0 +1,12 @@
+[programs.localnet]
+messengerapp = "CWD8AYJ4HWMyGBR4jPhNx1sjoUefyzmn3ruDqhqEdUmg"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/gyan/.config/solana/id.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"
